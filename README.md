@@ -1,67 +1,19 @@
-## 🚀 Senior Laravel Developer | Full-Stack Engineer
+<h1 align="center">Hi 👋, I'm Avinash Zala</h1>
+<h3 align="center">Hi there! 👋Experienced software developer with 16 years of expertise in building scalable, secure, and high-performance applications.</h3>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-addweb" /> </p>
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white) ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-addweb" alt="avinash-addweb" /></a> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 👋 Welcome to My GitHub Profile!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-I am a **Senior Laravel Developer** with **16+ years** of experience in **backend and full-stack development**. My expertise spans across modern web technologies, scalable application architecture, and high-performance system design. Passionate about **clean code, TDD, and CI/CD**, I build applications that are robust, efficient, and secure.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-addweb&show_icons=true&locale=en" alt="avinash-addweb" /></p>
 
-### 🔥 My Skill Set
-
-#### 🏗 Backend Development
-- **Laravel (TDD, Backpack), CodeIgniter, CakePHP**
-- **RESTful API Development, API Design & Integration**
-- **Database Management: MySQL, SQL Server, Redis, SQLite, Oracle**
-- **Cloud & DevOps: AWS, Azure, Apache**
-
-#### 🎨 Frontend Development
-- **Vue.js, JavaScript, HTML, CSS, jQuery**
-- **Component-Based Architecture & State Management (Vuex)**
-- **UI/UX & Responsive Design (CSS Grid, Flexbox, Media Queries)**
-
-#### 🛠️ DevOps & Version Control
-- **Git, BitBucket, SVN**
-- **CI/CD, Jest, Vue Test Utils, Unit Testing**
-- **Web Performance Optimization & Scalability**
-
-#### ⚡ Other Expertise
-- **GraphQL, Redis Integration**
-- **Project Management: Agile, Jira**
-- **Custom Plugin Development & Third-Party Integrations**
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true)
-
----
-
-### 🎖 Achievements
-- **Contributed to open-source Laravel and Vue.js projects**
-- **Developed high-performance enterprise applications**
-- **Implemented scalable microservices architectures**
-- **Active community member in Laravel and Vue.js forums**
-
----
-
-### 🔝 Top Contributed Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=radical)](https://github.com/your-github-username/repo-name)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name-2&theme=radical)](https://github.com/your-github-username/repo-name-2)
-
----
-
-### 🚀 Let's Build Something Amazing!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" /></p>
