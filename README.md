@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Zala</h1>
 <h3 align="center">Hi there! 👋Experienced software developer with 16 years of expertise in building scalable, secure, and high-performance applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-addweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-addweb" alt="avinash-addweb" /></a> </p>
-
 - 🔭 I’m currently working on **Laravel-based applications**
 
 - 👯 I’m looking to collaborate on **API integrations**
@@ -12,6 +8,9 @@
 - 💬 Ask me about **Laravel, PHP, APIs, and Backend Development**
 
 - ⚡ Fun fact **I ❤️ coding and solving complex problems**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-addweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-addweb" alt="avinash-addweb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
