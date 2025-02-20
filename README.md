@@ -57,11 +57,4 @@ I am a **Senior Laravel Developer** with **16+ years** of experience in **backen
 
 ---
 
-### 🔝 Top Contributed Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=radical)](https://github.com/your-github-username/repo-name)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name-2&theme=radical)](https://github.com/your-github-username/repo-name-2)
-
----
-
 ### 🚀 Let's Build Something Amazing!
