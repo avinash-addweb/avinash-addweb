@@ -20,19 +20,12 @@
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
    <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
   <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> 
-</a> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src=" " alt="javascript" width="40" height="40"/> 
-</a>
-
-<a href="https://cakephp.org" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys2FJGVFwEIxkkHU1ODTq3VhDr9vQNugFNLMmJ0ZXKy1H6rmFjFDU-10&usqp=CAE&s" alt="cakephp" width="40" height="40"/> 
-</a> 
+</a> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"/> 
 </a>
-
 <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1656251.png" alt="oracle" width="40" height="40"/> 
+  <img src="[https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1656251.png](https://www.flaticon.com/free-icon/oracle_16183644?term=oracle&page=1&position=4&origin=tag&related_id=16183644)" alt="oracle" width="40" height="40"/> 
 </a> 
 
 <a href="https://cakephp.org" target="_blank" rel="noreferrer"> 
