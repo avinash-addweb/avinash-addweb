@@ -25,6 +25,10 @@
 <a href="https://cakephp.org" target="_blank" rel="noreferrer"> 
   <img src="https://cakephp.org/img/logo.svg" alt="cakephp" width="40" height="40"/> 
 </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"/> 
+</a>
+
 <a href="https://www.oracle.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1656251.png" alt="oracle" width="40" height="40"/> 
 </a> 
