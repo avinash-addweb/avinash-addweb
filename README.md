@@ -24,7 +24,9 @@
 </a> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://developer.mozilla.org/static/img/favicon144.png" alt="javascript" width="40" height="40"/> 
 </a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://developer.mozilla.org/static/img/favicon144.png" alt="JavaScript" width="40" height="40"/> 
+    </a>
 <a href="https://cakephp.org" target="_blank" rel="noreferrer"> 
   <img src="https://cakephp.org/img/logo.svg" alt="cakephp" width="40" height="40"/> 
 </a> 
