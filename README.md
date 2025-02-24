@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel-based applications**
 
-- 🔭 I’m looking to collaborate on **building and integrating seamless backend solutions.**
+- 🤝 I’m looking to collaborate on **building and integrating seamless backend solutions.**
 
 - 💬 Ask me about **Laravel, PHP, APIs, and Backend Development**
   
