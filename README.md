@@ -23,8 +23,8 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-   <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration:none; border: 1px solid; padding: 5px;"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="margin-right: 10px; text-decoration:none; border: 1px solid; padding: 5px;" alt="php" width="40" height="40"/> 
    </a> 
    <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
     <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/> 
