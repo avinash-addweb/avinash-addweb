@@ -38,18 +38,27 @@
   <img src="https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" />
 </p>
 
-<p>
+<p style="font-size: 8px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" 
        alt="avinash-addweb" 
        style="height: 10%; width: 100%; display: inline-block;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" 
        alt="avinash-addweb" 
-       style="height: 10%px; width: 100%; display: inline-block;" />
+       style="height: 10%; width: 100%; display: inline-block;" />
 </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-addweb&show_icons=true&locale=en" alt="avinash-addweb" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" style="width:100%"/></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" height="20%" style="width:100%"/></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" style="width:100%"/></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-addweb&show_icons=true&locale=en" alt="avinash-addweb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" /></p>
+
+
