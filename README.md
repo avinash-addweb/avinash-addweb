@@ -28,10 +28,10 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   </a>
-  <a href="https://codeigniter.com/" target="_blank">
+  <a href="https://codeigniter.com/" ">
     <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   </a>
-  <a href="https://cakephp.org/" target="_blank">
+  <a href="https://cakephp.org/" >
     <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
