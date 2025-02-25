@@ -41,10 +41,10 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" 
        alt="avinash-addweb" 
-       style="height: 45px; width: 100%; display: inline-block;" />
+       style="height: 10%; width: 100%; display: inline-block;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" 
        alt="avinash-addweb" 
-       style="height: 45px; width: 100%; display: inline-block;" />
+       style="height: 10%px; width: 100%; display: inline-block;" />
 </p>
 
 
