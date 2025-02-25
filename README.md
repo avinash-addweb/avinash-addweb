@@ -19,6 +19,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-addweb&theme=onedark&margin-w=15" alt="avinash-addweb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+💬 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)  ](https://www.addwebsolution.com/)
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
