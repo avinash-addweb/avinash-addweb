@@ -37,12 +37,12 @@
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
   <img src="https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" />
 </p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" style="width: 100%;" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" /></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-addweb&show_icons=true&locale=en" alt="avinash-addweb" />
-</p>
+
 
 
 
