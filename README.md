@@ -38,10 +38,15 @@
   <img src="https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" />
 </p>
 
-<p style="background-color: black; padding: 10px; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" style="width:45%; display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" alt="avinash-addweb" style="width:45%; display: inline-block;" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" 
+       alt="avinash-addweb" 
+       style="height: 45px; width: 100%; display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-addweb&" 
+       alt="avinash-addweb" 
+       style="height: 45px; width: 100%; display: inline-block;" />
 </p>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" style="width:100%"/></p>
 
