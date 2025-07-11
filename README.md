@@ -38,5 +38,3 @@
   <img src="https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-addweb&show_icons=true&locale=en&layout=compact" alt="avinash-addweb" style="width: 40%; height: 7%; display: block;" /></p>
-
